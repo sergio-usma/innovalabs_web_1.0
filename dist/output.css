@@ -703,6 +703,14 @@ video {
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
 }
 
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[url\(\'\.\.\/assets\/bg\.jpg\'\)\] {
+  background-image: url('../assets/bg.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
